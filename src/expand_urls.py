@@ -1,4 +1,4 @@
-mport requests
+import requests
 import concurrent.futures
 from tqdm import tqdm
 
