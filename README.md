@@ -1,7 +1,7 @@
 # Twitter-URL-extractor: URL Expansion and Classification Tool
 
 This Python package provides tools for expanding shortened URLs, classifying URLs based on their domain, extracting specific account information from Telegram URLs, and retrieving YouTube video titles from URLs.
-This package at simplyfing the analysis of hyperlinks contained in twitter text.
+This package at simplyfing the analysis of hyperlinks contained in twitter text to perform content or hyper-link based network analysis. 
 
 ## Features
 
